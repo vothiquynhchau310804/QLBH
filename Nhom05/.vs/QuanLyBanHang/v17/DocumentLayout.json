@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\GitHub\\QuanLyBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{697D5E48-11CF-4638-9DB4-B0F9C3F2DAFF}|QuanLyBanHang\\QuanLyBanHang.csproj|c:\\users\\asus\\documents\\github\\quanlybanhang\\quanlybanhang\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697D5E48-11CF-4638-9DB4-B0F9C3F2DAFF}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697D5E48-11CF-4638-9DB4-B0F9C3F2DAFF}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\ASUS\\Documents\\GitHub\\QuanLyBanHang\\quanlybanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697D5E48-11CF-4638-9DB4-B0F9C3F2DAFF}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697D5E48-11CF-4638-9DB4-B0F9C3F2DAFF}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\ASUS\\Documents\\GitHub\\QuanLyBanHang\\quanlybanhang\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{697D5E48-11CF-4638-9DB4-B0F9C3F2DAFF}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697D5E48-11CF-4638-9DB4-B0F9C3F2DAFF}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\ASUS\\Documents\\GitHub\\QuanLyBanHang\\quanlybanhang\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{697D5E48-11CF-4638-9DB4-B0F9C3F2DAFF}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmNhaCungCap.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\QuanLyBanHang\\QuanLyBanHang\\frmNhaCungCap.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmNhaCungCap.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\QuanLyBanHang\\QuanLyBanHang\\frmNhaCungCap.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmNhaCungCap.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:56:02.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmTrangChu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\QuanLyBanHang\\QuanLyBanHang\\frmTrangChu.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmTrangChu.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\QuanLyBanHang\\QuanLyBanHang\\frmTrangChu.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\frmTrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:29:35.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\QuanLyBanHang\\QuanLyBanHang\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmDangNhap.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\QuanLyBanHang\\QuanLyBanHang\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:28:51.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\QuanLyBanHang\\QuanLyBanHang\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\QuanLyBanHang\\QuanLyBanHang\\Program.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:33:08.362Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

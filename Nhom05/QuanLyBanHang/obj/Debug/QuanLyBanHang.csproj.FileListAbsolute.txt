@@ -1,0 +1,13 @@
+C:\Users\ASUS\Documents\GitHub\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\ASUS\Documents\GitHub\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\ASUS\Documents\GitHub\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\ASUS\Documents\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+C:\Users\ASUS\Documents\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\ASUS\Documents\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\ASUS\Documents\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\ASUS\Documents\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhaCungCap.resources
+C:\Users\ASUS\Documents\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTrangChu.resources
+C:\Users\ASUS\Documents\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDonBanHang.resources
